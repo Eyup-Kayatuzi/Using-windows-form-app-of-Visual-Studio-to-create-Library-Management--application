@@ -1,0 +1,25 @@
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form1.resources
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\ARGE\Desktop\C# Folder\lesson4\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.AdminSayfasi.resources
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.AdminSayfasi.resources
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.Form1.resources
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\ARGE\Desktop\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon.UyeSayfasi.resources
